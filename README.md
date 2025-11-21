@@ -2,8 +2,6 @@
 
 To develop a Python program using OpenCV that detects a vehicle’s license plate from an image by applying a Haar Cascade classifier, drawing bounding boxes, and extracting the plate region.
 
----
-
 #  **ALGORITHM**
 
 1. **Start**
@@ -145,5 +143,3 @@ for (x, y, w, h) in plates:
 **RESULT:**
 The license plate of the vehicle was successfully detected using Haar Cascade, and the detected region was extracted and saved.
 
-
-Just ask.
