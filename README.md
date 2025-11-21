@@ -1,3 +1,4 @@
+# **WORKSHOP-5**
 # **AIM**
 
 To develop a Python program using OpenCV that detects a vehicle’s license plate from an image by applying a Haar Cascade classifier, drawing bounding boxes, and extracting the plate region.
@@ -26,7 +27,6 @@ To develop a Python program using OpenCV that detects a vehicle’s license plat
    * Detection output
 9. **End**
 
----
 
 #  **PROGRAM**
 
